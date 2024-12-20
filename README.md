@@ -1,5 +1,5 @@
 # Лабораторна робота №4: Розробка додатку для візуалізації вимірювань радару
-
+# [![Открыть в CodePen](https://img.shields.io/badge/CodePen-Open%20Project-blue?style=for-the-badge&logo=codepen)](https://codepen.io/ffcnismw-the-sasster/full/EaYmYEw)
 ## Мета роботи
 Розробити веб-додаток для візуалізації даних радару, отриманих з емульованої вимірювальної частини, та дослідити принципи роботи радіолокаційних систем.
 
